@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vintee Chauhan</h1>
-<h3 align="center">A Novice Android Application Developer from India!</h3>
+<h3 align="center">AI-ML ENGINEER from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=missvintee&label=Profile%20views&color=0e75b6&style=flat" alt="missvintee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=missvintee" alt="missvintee" /></a> </p>
 
-- 🌱 I’m currently learning **Android Application Development, Artificial Intelligence & Machine Learning, also diving deeper into Data Structure & Algorithms**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning, Android Application Development also diving deeper into Data Structure & Algorithms**
 
 - 📫 How to reach me **in LinkedIn https://www.linkedin.com/in/vintee-chauhan-b636a2258/**
 
