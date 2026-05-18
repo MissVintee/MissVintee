@@ -15,10 +15,13 @@
 
 - 📫 How to reach me **vintee.c23@gmail.com**
 
-- **⚡ Fun fact: I blend AI with creativity and product thinking
-⚡ I enjoy turning real-world problems into AI-powered products**
+- ⚡ **Fun facts:**  
+    - I blend AI with creativity and product thinking  
+    - I enjoy turning real-world problems into AI-powered products
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1PC2N8ClxH8UuXAboT06veMOjnfNP8hfY/view?usp=drive_link](https://drive.google.com/file/d/1PC2N8ClxH8UuXAboT06veMOjnfNP8hfY/view?usp=drive_link)**
+- 📄 [My Resume](https://drive.google.com/file/d/1PC2N8ClxH8UuXAboT06veMOjnfNP8hfY/view?usp=drive_link)
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=missvintee&label=Profile%20views&color=0e75b6&style=flat" alt="missvintee" /> </p>
 
