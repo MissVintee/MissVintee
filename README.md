@@ -1,24 +1,14 @@
 <h1 align="center">Hi 👋, I'm VINTEE CHAUHAN</h1>
-<h2 align="center">AI-ML ENGINEER FROM INDIA!</h2>
+<h3 align="center">AI-ML ENGINEER FROM INDIA!</h3>
 
-### 👋 Hi! AI/ML enthusiast passionate about building intelligent, scalable, and impactful solutions using machine learning, deep learning, blockchain, and cloud technologies & A Creative Content Creator.
+#### "If you regret for what happened yesterday, make a change today. Otherwise, you'll end up regretting tomorrow too."   ~vintee chauhan🌺
 
-- 🔭 I’m currently working on improving my Technical Skills, Mathematics!
-
-- 🌱 I’m currently learning Advanced Machine Learning, Deep Learning and Data Science!
-
-- 👯 I’m looking to collaborate on AI/ML, Flutter and Open Source projects
-
-- 🤝 I’m looking for help with scalable ML deployment and model optimization
-
-- 💬 Ask me about Machine Learning, Data Science, Deep Learning, Cloud Computing and Flutter, APIs
+#### SKILLS
+- TECHNICAL -  AI, Machine Learning, Predictive Analytics, Data Science and Application Development. Proficient in Python, Cloud Computing, DSA and Data-driven technologies,with Probability, Statistics, and Mathematical foundations.
+  
+- BEYOND TECH - Content Creation, Digital Outreach, Sports, Discipline, Consistency, Competitive, Problem Solving, Cooperative, Strong interpersonal, Leadership, Teamwork  and Public Presentation Capabilities.
 
 - 📫 How to reach me **vintee.c23@gmail.com**
-
-- ⚡ Fun facts:  
-    - I blend AI with creativity and product thinking  
-    - I enjoy turning real-world problems into AI-powered products
-
 - 📄 [My Resume](https://drive.google.com/file/d/1PC2N8ClxH8UuXAboT06veMOjnfNP8hfY/view?usp=drive_link)
 - 📄 [Certificates](https://drive.google.com/drive/folders/1uWUY4HLS-d2Or1ALhkgpaw7bSKD6FQBf)
 
@@ -60,6 +50,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=missvintee&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+    
   <img src="https://github-profile-trophy.vercel.app/?username=MissVintee&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
@@ -68,6 +59,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/missvintee/missvintee/pacman-output/pacman-contribution-graph-dark.svg">
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/missvintee/missvintee/pacman-output/pacman-contribution-graph.svg">
+  
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/missvintee/missvintee/pacman-output/pacman-contribution-graph.svg">
 </picture>
