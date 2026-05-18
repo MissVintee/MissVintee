@@ -3,19 +3,19 @@
 
 ### 👋 Hi! I'm  an enthusiastic AI/ML Engineer passionate about solving real-world problems using data and machine learning. I love sharing knowledge, and contributing to open-source.
 
-- 🔭 I'm currently working on **I’m currently working on improving my Technical Skills, Mathematics!**
+- 🔭 **I’m currently working on improving my Technical Skills, Mathematics!**
 
-- 🌱 I'm currently learning **🌱 I’m currently learning Advanced Machine Learning, Deep Learning and Data Science!**
+- **🌱 I’m currently learning Advanced Machine Learning, Deep Learning and Data Science!**
 
-- 👯 I'm looking to collaborate on **I’m looking to collaborate on AI/ML, Flutter and Open Source projects**
+- 👯 **I’m looking to collaborate on AI/ML, Flutter and Open Source projects**
 
-- 🤝 I'm looking for help with **🤝 I’m looking for help with scalable ML deployment and model optimization**
+- **🤝 I’m looking for help with scalable ML deployment and model optimization**
 
-- 💬 Ask me about **💬 Ask me about Machine Learning, Data Science, Deep Learning, Cloud Computing and Flutter, APIs**
+- **💬 Ask me about Machine Learning, Data Science, Deep Learning, Cloud Computing and Flutter, APIs**
 
 - 📫 How to reach me **vintee.c23@gmail.com**
 
-- ⚡ Fun fact **⚡ Fun fact: I blend AI with creativity and product thinking
+- **⚡ Fun fact: I blend AI with creativity and product thinking
 ⚡ I enjoy turning real-world problems into AI-powered products**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1PC2N8ClxH8UuXAboT06veMOjnfNP8hfY/view?usp=drive_link](https://drive.google.com/file/d/1PC2N8ClxH8UuXAboT06veMOjnfNP8hfY/view?usp=drive_link)**
