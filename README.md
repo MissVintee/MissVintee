@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm VINTEE CHAUHAN</h1>
 <h2 align="center">AI-ML ENGINEER FROM INDIA!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=missvintee&label=Profile%20views&color=0e75b6&style=flat" alt="missvintee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=missvintee" alt="missvintee" /></a> </p>
+###
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning, Android Application Development also diving deeper into Data Structure & Algorithms**
-
-- 📫 How to reach me **in LinkedIn https://www.linkedin.com/in/vintee-chauhan-b636a2258/**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
