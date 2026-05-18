@@ -41,7 +41,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=missvintee&show_icons=true&locale=en" alt="missvintee stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=missvintee&" alt="missvintee streak" />
 </div>
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ###
 
