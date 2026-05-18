@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VINTEE CHAUHAN</h1>
 <h2 align="center">AI-ML ENGINEER FROM INDIA!</h2>
 
-### 👋 Hi! I'm  an enthusiastic AI/ML Engineer passionate about solving real-world problems using data and machine learning. I love sharing knowledge, and contributing to open-source.
+### 👋 Hi! I love sharing Knowledge, and Contributing to open-source, also a Creative Content Creator.
 
 - 🔭 **I’m currently working on improving my Technical Skills, Mathematics!**
 
